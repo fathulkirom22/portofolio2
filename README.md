@@ -7,3 +7,6 @@ MookUp aplikasi untuk keperluan administrasi puskesmas
 ## Belajar
 Poyek PKM pemesanan bekal online 
 ![alt text](https://github.com/fathulkirom22/portofolio/blob/master/PortofolioProject2.png)
+
+## Harga Udang
+![alt text](https://github.com/fathulkirom22/portofolio/blob/master/HargaUdang.png)
